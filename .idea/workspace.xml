@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d727b8e-be2a-42dc-b370-21efab01683c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z7hrcs3GrGK1r2FsnM7QmC7zU7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.weiboSpider">
+    <configuration name="json_test01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="web-crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch05" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch05/json_test01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="maoyan-spider" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="web-crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/maoyan-spider" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/maoyan-spider/maoyan-spider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="re-01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="web-crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/re-sample" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/re-sample/re-01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="weiboSpider" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="web-crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch06" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch06/weiboSpider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zhihu-requests" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="web-crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/requests-sample" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/requests-sample/zhihu-requests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.weiboSpider" />
+        <item itemvalue="Python.json_test01" />
+        <item itemvalue="Python.re-01" />
+        <item itemvalue="Python.maoyan-spider" />
+        <item itemvalue="Python.zhihu-requests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d727b8e-be2a-42dc-b370-21efab01683c" name="Default Changelist" comment="" />
+      <created>1584196239715</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584196239715</updated>
+      <workItem from="1584196241220" duration="988000" />
+      <workItem from="1584200448057" duration="527000" />
+      <workItem from="1584242971938" duration="21000" />
+      <workItem from="1584243033819" duration="6000" />
+      <workItem from="1584243064036" duration="69000" />
+      <workItem from="1584272777508" duration="813000" />
+      <workItem from="1584273683478" duration="762000" />
+      <workItem from="1584277023972" duration="4544000" />
+      <workItem from="1584282400136" duration="235000" />
+      <workItem from="1586790846192" duration="677000" />
+      <workItem from="1586791539579" duration="528000" />
+      <workItem from="1586792085917" duration="147000" />
+      <workItem from="1588087951926" duration="80000" />
+      <workItem from="1588728400129" duration="9337000" />
+      <workItem from="1588774807372" duration="2334000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#Notifications" timestamp="1588731396513">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1588731396513" />
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586790857981">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1586790857981" />
+    <state x="526" y="284" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1586791520803">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="526" y="284" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1536.824@0.0.1536.824" timestamp="1586791520803" />
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588730313118">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1588730313118" />
+    <state x="318" y="201" key="FileChooserDialogImpl" timestamp="1588728487091">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="318" y="201" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588728487091" />
+    <state width="1478" height="160" key="GridCell.Tab.0.bottom" timestamp="1588777145475">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="160" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588777145475" />
+    <state width="1478" height="160" key="GridCell.Tab.0.center" timestamp="1588777145475">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="160" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588777145475" />
+    <state width="1478" height="160" key="GridCell.Tab.0.left" timestamp="1588777145475">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="160" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588777145475" />
+    <state width="1478" height="160" key="GridCell.Tab.0.right" timestamp="1588777145475">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="160" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588777145475" />
+    <state width="1478" height="160" key="GridCell.Tab.1.bottom" timestamp="1588777145475">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="160" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588777145475" />
+    <state width="1478" height="160" key="GridCell.Tab.1.center" timestamp="1588777145475">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="160" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1588777145475" />
+    <state width="1478" height="160" key="GridCell.Tab.1.left" timestamp="1588777145475">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="160" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1588777145475" />
+    <state width="1478" height="160" key="GridCell.Tab.1.right" timestamp="1588777145475">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="160" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1588777145475" />
+    <state x="244" y="28" key="SettingsEditor" timestamp="1588766086685">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="244" y="28" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1588766086685" />
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1586790847239">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586790847239" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="url" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/web_crawler$json_test01.coverage" NAME="json_test01 Coverage Results" MODIFIED="1588731375620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch05" />
+    <SUITE FILE_PATH="coverage/web_crawler$weiboSpider.coverage" NAME="weiboSpider Coverage Results" MODIFIED="1588776991135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch06" />
+    <SUITE FILE_PATH="coverage/web_crawler$requests_01__1_.coverage" NAME="requests_01 (1) Coverage Results" MODIFIED="1586791757358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests-sample" />
+    <SUITE FILE_PATH="coverage/web_crawler$requests_01.coverage" NAME="requests_01 Coverage Results" MODIFIED="1584196615330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
+    <SUITE FILE_PATH="coverage/web_crawler$maoyan_spider.coverage" NAME="maoyan-spider Coverage Results" MODIFIED="1586791815649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/maoyan-spider" />
+    <SUITE FILE_PATH="coverage/web_crawler$requests01.coverage" NAME="requests01 Coverage Results" MODIFIED="1584196518215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
+    <SUITE FILE_PATH="coverage/web_crawler$re_01.coverage" NAME="re-01 Coverage Results" MODIFIED="1586792159307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/re-sample" />
+    <SUITE FILE_PATH="coverage/web_crawler$zhihu_requests.coverage" NAME="zhihu-requests Coverage Results" MODIFIED="1586791764331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests-sample" />
+  </component>
+</project>
